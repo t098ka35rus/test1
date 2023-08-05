@@ -1,2 +1,2 @@
 ## Тимофей Заболотько
-![Это я](i2023-07-13 21.34.08.jpg)
+![Это я](https://github.com/t098ka35rus/test1/blob/main/image.png)
